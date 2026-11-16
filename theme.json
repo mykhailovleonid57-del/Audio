@@ -1,0 +1,29 @@
+
+{
+    "button": {
+        "colours": {
+            "normal_bg": "#00FA00",
+            "hovered_bg": "#00FA00",
+            "active_bg": "#00FA00",
+
+            "normal_text": "#FFFA00",
+            "hovered_text": "#FFFA00",
+
+            "normal_border": "#93C5FD",
+            "hovered_border": "#FFFFFF"
+        },
+
+        "font": {
+            "name": "noto_sans",
+            "size": "24",
+            "bold": "1"
+        },
+
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "12",
+            "border_width": "2",
+            "shadow_width": "2"
+        }
+    }
+}
